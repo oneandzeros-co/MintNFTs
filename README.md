@@ -1,4 +1,4 @@
-# minty
+# Mint NFTs
 
 Minty is an example of how to _mint_ non-fungible tokens (NFTs) while storing the
 associated data on IPFS. You can also use Minty to pin your data on an IPFS pinning service such as [nft.storage](https://nft.storage) and [Pinata](https://pinata.cloud).
@@ -179,3 +179,8 @@ Successfully verified contract Minty on Etherscan.
 https://rinkeby.etherscan.io/address/0xcC17B83373fDb75C5e1F6F074437249C53A026F5#code
 
 ```
+
+### Credits ✍️✍️✍️
+
+We would like to give credit to the orginal creator of this repository we forked.
+https://github.com/yusefnapora/minty
