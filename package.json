@@ -27,14 +27,14 @@
     "cids": "^1.1.6",
     "commander": "^7.1.0",
     "concurrently": "^6.0.0",
+    "dotenv": "^10.0.0",
     "getconfig": "^4.5.0",
     "go-ipfs": "^0.12.0",
     "inquirer": "^8.0.0",
     "ipfs-http-client": "^49.0.4",
     "it-all": "^1.0.5",
     "json-colorizer": "^2.2.2",
-    "multiaddr": "^8.1.2",
-    "dotenv": "^10.0.0"
+    "multiaddr": "^8.1.2"
   },
   "directories": {
     "test": "test"
