@@ -25,6 +25,15 @@ To install and run Minty, you must have NPM installed. Windows is not currently 
     ```
     npm link
     ```
+1. Run the `start-local-environment.sh` script to start the local Ethereum testnet and IPFS daemon:
+
+    ```shell
+    # Required ✋
+    ALCHEMY_KEY = ""
+    ACCOUNT_PRIVATE_KEY = ""
+    ```
+
+    Please check the env.example file provided for reference.
 
 1. Run the `start-local-environment.sh` script to start the local Ethereum testnet and IPFS daemon:
 
