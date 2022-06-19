@@ -11,7 +11,7 @@ To install and run Minty, you must have NPM installed. Windows is not currently 
 
     ```shell
     git clone https://github.com/oneandzeros-co/MintNFTs
-    cd minty
+    cd MintNFTs
     ```
 
 1. Install the NPM dependencies:
